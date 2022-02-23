@@ -1,6 +1,6 @@
 // Encontro remoto 2 da UC8
 // Abaixo a atividade realizada no encontro (aula) que esta comentada e
-// atividade para uc8 remoto 2 : classificacao de itens de uma nota fiscal
+// atividade para uc8 remoto 2 : contagem e classificacao de itens de uma nota fiscal
 
 console.clear()
 
@@ -41,7 +41,7 @@ for (let nome of nomeDeAlunos) {
 // atividade para uc8 remoto 2
 
 // codificacao de um sistema de contagem e classificacao
-// nota fiscal com a classificacao de tributos pela inicial do nome do item
+// nota fiscal com a contagem dos itens e classificacao de tributos pela inicial do nome do item
 
 // array com os itens da nota
 const notaFiscal = ["Nescau","Coca-cola","Danoninho","Miojo","Passatempo","Bala","Feijao","Arroz","Sabao"]
